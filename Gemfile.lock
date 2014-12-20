@@ -1,0 +1,45 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    charlock_holmes (0.7.3)
+    childprocess (0.5.5)
+      ffi (~> 1.0, >= 1.0.11)
+    daemons (1.1.9)
+    diff-lcs (1.2.5)
+    ffi (1.9.6)
+    httparty (0.13.3)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.1)
+    logger (1.2.8)
+    multi_xml (0.5.5)
+    psych (2.0.3)
+    rspec (3.1.0)
+      rspec-core (~> 3.1.0)
+      rspec-expectations (~> 3.1.0)
+      rspec-mocks (~> 3.1.0)
+    rspec-core (3.1.7)
+      rspec-support (~> 3.1.0)
+    rspec-expectations (3.1.2)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.1.0)
+    rspec-mocks (3.1.3)
+      rspec-support (~> 3.1.0)
+    rspec-support (3.1.2)
+    sshkey (1.6.1)
+    thor (0.19.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  charlock_holmes
+  childprocess
+  daemons
+  httparty
+  json
+  logger
+  psych
+  rspec
+  sshkey
+  thor
