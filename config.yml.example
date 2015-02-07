@@ -1,0 +1,4 @@
+---
+polytene_url: https://example.org
+token: d9891e27fe721d3467ns81scc0c86e
+ssh_private_key_path: "/var/local/polytene-runner-1/.ssh/id_rsa"
